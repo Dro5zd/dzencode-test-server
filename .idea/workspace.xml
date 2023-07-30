@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5f9904c-3bd2-4d04-97cc-814c160b1bdb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/angleRight.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/arrowLeft.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/cross.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/gear.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/plus.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/trash.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/trashRed.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/main-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/Container.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo/Logo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo/Logo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logo/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavigationMenu/NavigationMenu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SessionCounter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TopMenu/TopMenu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TopMenu/TopMenu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TopMenu/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/HomePage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OrdersPage/OrdersPage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OrdersPage/OrdersPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/OrdersPage/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductsPage/ProductsPage.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductsPage/ProductsPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/ProductsPage/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/api/data.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/api/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/orders/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/orders/orders-slice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/products/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/products/products-slice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/selectedOrder/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/slices/selectedOrder/selected-order-slice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/MainRoutes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/RoutesPath.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/types/Path.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/types/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/_reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Order.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/OrderWithProducts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/Product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/SortProducts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2T8p3C4f5FSNJ2PNb6wsDyNWz8H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/andrijdrobotuk/WebstormProjects/dzencode-test/src/components",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "ts.external.directory.path": "/Users/andrijdrobotuk/WebstormProjects/dzencode-test/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src/components/TopMenu" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/TopMenu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5f9904c-3bd2-4d04-97cc-814c160b1bdb" name="Changes" comment="" />
+      <created>1690434360733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690434360733</updated>
+      <workItem from="1690434361781" duration="1175000" />
+      <workItem from="1690435647982" duration="1677000" />
+      <workItem from="1690437633822" duration="18198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/assets/icons/index.ts</url>
+          <line>7</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
