@@ -1,9 +1,12 @@
 const express = require('express');
+const { Pool } = require('pg');
 const http= require('http');
 const {Server} = require('socket.io');
 const app = express();
 
 let activeSessions = 0;
+
+const { DATABASE_URL } = process.env;
 
 const server = http.createServer(app);
 
